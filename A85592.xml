@@ -1,0 +1,291 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great fight at Newarke: where the Lord Sinclares regiment beat 1000. foot and 400. horse, and drave them into Newark. Where Lieu. Gen. David Lesley, Major Generall Poyntz, and Colonell Rossiter, and all their chiefe officers, and all their quarters in the isle were surprized: with the particulars of Captains and others kild and hurt on both sides. The governours treaty with the commissioners, and his motion of surrender of Newarke, if they will not accommodate him better. Also the manner of the taking the city of Lichfield by Sir William Brereton, and how hee hath driven Bagot and 1000 horse and foot into the close, with the particulars, and how many slain on both sides. Certified by a letter from Colonell Rossiter, and an other from one of the commissioners, and the third from Sir William Breretons quarters in Lichfield: commanded to be printed and published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85592</idno>
+            <idno type="STC">Wing G1695</idno>
+            <idno type="STC">Thomason E327_19</idno>
+            <idno type="STC">ESTC R200660</idno>
+            <idno type="EEBO-CITATION">99861342</idno>
+            <idno type="PROQUEST">99861342</idno>
+            <idno type="VID">113475</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85592)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113475)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E327[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great fight at Newarke: where the Lord Sinclares regiment beat 1000. foot and 400. horse, and drave them into Newark. Where Lieu. Gen. David Lesley, Major Generall Poyntz, and Colonell Rossiter, and all their chiefe officers, and all their quarters in the isle were surprized: with the particulars of Captains and others kild and hurt on both sides. The governours treaty with the commissioners, and his motion of surrender of Newarke, if they will not accommodate him better. Also the manner of the taking the city of Lichfield by Sir William Brereton, and how hee hath driven Bagot and 1000 horse and foot into the close, with the particulars, and how many slain on both sides. Certified by a letter from Colonell Rossiter, and an other from one of the commissioners, and the third from Sir William Breretons quarters in Lichfield: commanded to be printed and published according to order.</title>
+                  <author>Rossiter, Edward.</author>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Matthew Walbancke,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>10 March 1645. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1645; Thomason catalogue lists under 1646.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Campaigns --  Early works to 1800.</term>
+               <term>Newark (England) --  History --  Early works to 1800.</term>
+               <term>Lichfield (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113475:1" rendition="simple:additions"/>
+            <p>A GREAT FIGHT At Newarke: Where the Lord <hi>Sinclares</hi> Regiment beat 1000. Foot and 400.
+Horſe, and drave them into NEWARK.</p>
+            <p>Where Lieu. Gen. <hi>David Leſley,</hi> Major Generall <hi>Poyntz,</hi> and Colonell
+<hi>Roſſiter,</hi> and all their chiefe Officers, and all the Quarters in the Iſle were
+ſurprized: With the particulars of Captains and others kild and hurt on both ſides.</p>
+            <p>The Governours Treaty with the Commiſſi<g ref="char:EOLhyphen"/>oners, and his motion of Surrender of
+<hi>Newarke,</hi> if they will not accommodate him better.</p>
+            <p>Alſo the manner of taking the City of LICHFIELD By Sir <hi>William Brereton,</hi> and how hee
+hath driven <hi>Bagot</hi> and 1000 Horſe and Foot into the Cloſe, with the particulars, and
+how many ſlain on both ſides.</p>
+            <p>Certified by a Letter from Colonell <hi>Roſſiter,</hi> and an other from one of the
+Commiſſioners, and the third from Sir <hi>William Breretons</hi> Quarters in
+<hi>Lichfield:</hi> Commanded to be printed and publiſhed according to Order.</p>
+            <p>
+               <hi>London,</hi> printed for <hi>Matthew Walbancke,</hi> 10 March 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="tcp:113475:2"/>
+            <pb n="1" facs="tcp:113475:2"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Copy of a Letter from one of of the Parliaments Commiſſioners at
+<hi>LINCOLNE.</hi>
+                  </head>
+                  <opener>
+                     <salute>Worthy Sir:</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>His incloſed will ſhew you what the Newarkers lately attempted with a great deale of
+reſolution, com<g ref="char:EOLhyphen"/>ming up to the Workes even un<g ref="char:EOLhyphen"/>to puſh of Pike; and if the <hi>Scots</hi> had
+not been ſtout and reſolute Foot (they who knew them ſay, They are the beſt men in the
+Army, and the oldeſt Souldiers, being the Lord <hi>Sinclares</hi> Regiment) if it had fortuned
+any other Regiment to have been there in their ſtead, it is feared that they would ſcarce have
+done ſo well. They were extreamly overpow<g ref="char:EOLhyphen"/>red with numbers.</p>
+                  <p>Now all men may ſee (that which ſome have not heretofore beleeved) that Newarke is a
+conſiderable Gariſon to the King, ſeeing that they can ſpare ſuch a
+<pb n="2" facs="tcp:113475:3"/>
+number for a ſalley, and be able to keep the Towne, and Workes beſide.</p>
+                  <p>The truth is, it happened very fortunately, that the ſucceſſe proved ſo well, having no
+greater ſtrength, we had not halfe ſo many men as they had, and yet moſt of the
+<hi>Scots</hi> Commanders; alſo <hi>Poyntz</hi> and with him divers of his chiefe Officers, and
+Colo<g ref="char:EOLhyphen"/>nell <hi>Roſſiter,</hi> and many of his chiefeſt Officers were at the ſame time in the
+Iſle, into which none could goe in to them, nor they paſſe out from thence, but by Boates,
+and that way there could not paſſe above ten or twelve at a time; ſo that if thoſe Forces
+the Newarkers would have ſurpriſed had been routed, our men (amongſt whom were ſo many
+great Offi<g ref="char:EOLhyphen"/>cers) would have been in a Pinfold; yet the Enemy had not ſo much courage as to take
+or try their op<g ref="char:EOLhyphen"/>portunity to the uttermoſt, but through a pannick fear apprehended our men to be
+in number greater then really they were; their terrour being the grea<g ref="char:EOLhyphen"/>ter in ſeeing our men come
+over, and ſtill increaſe ſo faſt as they could by that weake meanes, ſo that they
+conceived that the whole body of the <hi>Scots</hi> Ar<g ref="char:EOLhyphen"/>my was comming upon them.</p>
+                  <p>Colonell <hi>Grey</hi> was there with Colonell <hi>Roſſiter,</hi> who ſaith, That he did
+never ſee them doe better ſervice; their High-land Foot charged with the <hi>Scots</hi>
+Horſe, and gave fire, and wheeled amongſt our Horſe very nimbly and actively, and ſo
+gaulled the Enemy exceedingly; the 274. <abbr>l.</abbr> we have received, and de<g ref="char:EOLhyphen"/>ſire it may be
+repaid.</p>
+                  <p>The Line is now begun, and all our materials are
+<pb n="3" facs="tcp:113475:3"/>
+now in readineſſe for a ſiege, and the next week we ſhall lay it. The aſſociated Forces
+are ſo ill paid, both their Horſe and Foot, that unleſſe ſome ſpeedy courſe be taken
+to ſend them moneys, we ſhall not be able to keep them together, for where the Army lyeth
+thoſe parts cannot furniſh them without ready Mo<g ref="char:EOLhyphen"/>neys, and if they pay for what they take, all
+Proviſi<g ref="char:EOLhyphen"/>ons will be brought unto their Quarters, both from Boſton, and this Towne, but if they
+ſhould grow un<g ref="char:EOLhyphen"/>ruly, and take them away by force, they will be ſtar<g ref="char:EOLhyphen"/>ved, or forced to riſe,
+which we have indeavoured all that we can poſſibly to prevent; but now the two thouſand pound
+we brought downe with us, being disburſed, if preſent pay come not, I may feare what the event
+may prove: one two moneths pay would I doubt not, free both them and all theſe parts from that
+oppreſſing tyrannicall Gariſon.</p>
+                  <p>There hath lately been in Newarke a great con<g ref="char:EOLhyphen"/>teſtation betwixt <hi>Bellaſſis</hi> the
+Governour, and the Kings Commiſſioners there, and the Officers and Soul<g ref="char:EOLhyphen"/>diers, for Pay and
+Proviſions. The Governour told the Commiſſioners, that his Souldiers wanted Mo<g ref="char:EOLhyphen"/>neys, but they
+profeſſed there was none for them to be had, but they told him, that for Proviſions, he might
+diſpoſe unto them what quantities he pleaſed. <hi>Bellaſſis</hi> replied, that Souldiers
+muſt and ſhould have moneys, whilſt any of them had a farthing, and that for the Proviſions
+in the Magazine, he told the Com<g ref="char:EOLhyphen"/>miſſioners, that the greateſt part thereof was ſuch as no
+dogge would eate, and therefore charged them to bring forth better, or elſe he and his Souldiers
+<pb n="4" facs="tcp:113475:4"/>
+would rifle their Houſes, and take their Proviſions they had ſtored up for themſelves, and
+leave them the rotten ſtuffe in the Magazine to feed upon: And he further told them, that they
+were not to expect, that he and his Souldiers would fight to preſerve them and their Town,
+without thoſe things ſhould preſent<g ref="char:EOLhyphen"/>ly be remedied: And that for his part, he ſaid, that he
+did know well how to make honourable and good Conditions, for himſelf, his Officers and
+Souldiers, and would leave them and the Townſmen to ſhift for themſelves, if they took not
+care for them. And ſo they brake up in a great heat and diſcontent, which I preſume will be
+of no ill conſequence unto us, but of this and the reſt, you ſhall heare more hereafter.</p>
+                  <p>Colonell <hi>Roſſiter</hi> is choſen Burgeſſe for Grimſly; Therere was three votes
+for Colonell <hi>King.</hi> Sir I am</p>
+                  <closer>
+                     <signed>Your Servant.</signed>
+                     <dateline>
+                        <hi>Lincolne,</hi>
+                        <date>
+                           <hi>the</hi> 7. <hi>of March.</hi> 1645.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb facs="tcp:113475:4"/>
+                  <head>A Copie of Colonell <hi>Roſſiters</hi> Letter to the Lords and Commons, Commiſsioners
+at Lincolne.</head>
+                  <opener>
+                     <salute>Right Honourable;</salute>
+                  </opener>
+                  <p>IN obedience to your Lordſhips commands, I went this morning to the Generals quarters, and
+from thence to Liev<g ref="char:EOLhyphen"/>tenant-Gen. <hi>Leſleyes,</hi> to wait upon them in viewing Newarke on this
+ſide, which they intended, but whilſt we were at Liev<g ref="char:EOLhyphen"/>tenant-Gen. <hi>Leſlyes</hi> quarters,
+the enemy ſallied forth of New<g ref="char:EOLhyphen"/>ark with all their horſe and foot they could poſſibly make,
+be<g ref="char:EOLhyphen"/>ing about 1000. foot and 400. horſe, and fell upon the Scots guard in the Iſland with an
+intention to take from them a work which the Scots were making to keep them from grazing any
+cattell in the Iland, Muſcomb bridge being down the Scots could not get any reliefe over to their
+men, but veile ſlowly in boats, ſo that the enemy over-powred their horſe, being but four
+ſmall Troops, and made them retreat towards Muſcomb bridge with ſome loſſe, though not
+much; then the enemy at<g ref="char:EOLhyphen"/>tempted the work, but were beat off with ſome loſſe. Aſſoone as
+the Lievtenant-Generall received the Alarme, he and the reſt of the Company with him, haſted
+with all ſpeed over the river, where he commanded the horſe to Rally, and led them himſelfe
+to the work, and took out ſome foot thence, and ſome other foot which came over the river, and
+marched up to the enemy, who retreated after ſome ſmall skirmiſhing into the towne, what
+loſſe we had, I cannot certainly learne, but as near as I can judge we had one Captain, and two
+Lievtenants, and about eight ſouldiers ſlaine, and fifteen or twenty ſouldi<g ref="char:EOLhyphen"/>ers wounded; the
+enemy left ſome dead on the place, and we hear they had one Captain, and divers others ſlain
+and woun<g ref="char:EOLhyphen"/>ded; I do verily believe the enemy were full double in number to the Scots both horſe
+and foot. This advantage is got by it, that it is reſolved forthwith to make a bridge from
+Winthrop ſide, at the very point of the Iland to Muſcomb, which will
+<pb facs="tcp:113475:5"/>
+not onely ſerve for a correſpondency betwixt the Scots and the Col. Grey, but alſo to ſerve
+for an inlet to both ſides into the Iſland. Lievt. Gen. Leſly will guard one end of the
+Bridge, and Col. Grey the other; the Lievtenant-Generall and the reſt are verie deſirous that
+all poſſible meanes may be uſed <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or the
+reducing the enemy and expreſſe their forwardneſſe by ap<g ref="char:EOLhyphen"/>proaches or other wayes to do
+their parts, if your Lordſhips pleaſe to haſten downe the Pinnace it may be of good uſe,
+for whilſt the bridge is making, I ſhall upon all occaſions deſire to expreſſe my
+ſelfe, Right honourable,</p>
+                  <closer>
+                     <signed>Your Lordſhips humble ſervant, <hi>Edw. Roſsiter.</hi>
+                     </signed>
+                     <dateline>Balderton
+<date>March 5. 1645.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR;</salute>
+                  </opener>
+                  <p>WE are now in the City of Lichfield, Sir William Brereton entred this night, with the loſſe
+of three men ſlaine and ſome wounded; killed ſix of the enemies, and beat the reſt into the
+Cloſe, whither Col. Baggot the Governour fled with <hi>1000.</hi> horſe and foot, we have
+ſecured our quarters with the foot in the Towne, and the horſe as neare as with conveniency we
+may, the Enemy have made many ſhot againſt us with their great Guns, and alſo ſmall ſhee
+two ſeverall bullets fell neare Sir William, but God be thanked did no hurt, we have now ſet up
+blinds before them, ſo that we can walk the more ſecurely in the ſtreet, part of our foot are
+not yet come up, but we hope if the Oxford horſe or ſome other with them diſturb us not, to
+give a good accompt of this place in a convenient time; and in the mean time to keep them in ſo
+cloſe that there may be a free paſ<g ref="char:EOLhyphen"/>ſage in the Countrey from being diſturbed by them. Chirk
+Caſtle is for certain quit, and ſome other holds in North-Wales are falling, but being in
+haſt I reſt, the next opportunity you ſhall heare from me at large.</p>
+                  <closer>
+                     <dateline>Lichfield,
+<date>March <hi>5. 1645.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113475:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
